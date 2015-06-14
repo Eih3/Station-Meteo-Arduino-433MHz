@@ -1,0 +1,18 @@
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.exe.config
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.exe
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.pdb
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station_Météo_Arduino.Station.resources
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station_Météo_Arduino.Properties.Resources.resources
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.csproj.GenerateResource.Cache
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.exe
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.pdb
+D:\Eih3Cloud\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.csprojResolveAssemblyReference.cache
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.exe.config
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.exe
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.pdb
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.exe
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\bin\Debug\Station Météo Arduino.pdb
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.csprojResolveAssemblyReference.cache
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station_Météo_Arduino.Station.resources
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station_Météo_Arduino.Properties.Resources.resources
+E:\Station Météo Arduino\Station Météo Arduino\Station Météo Arduino\obj\Debug\Station Météo Arduino.csproj.GenerateResource.Cache
